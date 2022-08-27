@@ -1,6 +1,7 @@
-# English
-## 一、常用术语单词
-### 1. openmv python 单词
+
+# 常用术语单词
+## openmv python 单词
+### 1. sensor 库
 1. sensor -- 传感器
 2. reset -- 重置
 3. pixformat -- 像素格式
@@ -15,4 +16,5 @@
 12. whitebal -- 白平衡
 13. exposure -- 曝光
 14. windowing -- 窗口
-15. 
+### 2. 
+### 
