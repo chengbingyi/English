@@ -15,8 +15,11 @@
 11. gain -- 获得、增加、增益
 12. whitebal -- 白平衡
 13. exposure -- 曝光
-14. windowing -- 窗口
-### 2. 一些专业名词
-1. pixel -- 像素
-2. 
-### 
+14. windowing -- 窗口 
+### 2. image 图像运算
+1. invert -- 反
+2. pixel -- 像素
+3. statistics -- 统计数据
+4. median -- 中位数
+5. stdev -- 方差
+6. 
