@@ -22,4 +22,6 @@
 3. statistics -- 统计数据
 4. median -- 中位数
 5. stdev -- 方差
-6. 
+6. line -- 线、行
+7. rectangle -- 矩形
+8. 
