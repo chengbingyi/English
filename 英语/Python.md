@@ -24,7 +24,12 @@
 5. stdev -- 方差
 6. line -- 线、行
 7. rectangle -- 矩形
-8. 
+8. thresholds -- 阈值
+9. stride -- 步
+10. invert -- 反
+11. area -- 区域
+12. merge -- 合并、走
+13. margin -- 边缘、差额、盈余
 
 ## 二、 python
 ### 1. 数据结构单词
