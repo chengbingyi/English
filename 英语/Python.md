@@ -90,7 +90,42 @@
 |26|as|如同|
 |27|type|类型|
 |28|input|输入|
-
+|29|type error|类型错误|
+|30|float|浮动|
+|31|add|添加|
+|32|None|没有一个|
+|33|avg|平均值|
+|34|if|如果|
+|35|age|年龄|
+|36|or|或者|
+|37|and|与|
+|38|pass|通过|
+|39|return|返回|
+|40|try|尝试|
+|41|with|和、同什么一起|
+|42|continue|继续|
+|43|except|除外、除去|
+|44|finally|最后|
+|45|from|从、由|
+|46|sorted|排序的|
+|47|reversed|翻转|
+|48|enumerate|列举、枚举|
+|49|import|输入|
+|50|append|附加、添加、贴上|
+|51|extend|延申、扩大、增加|
+|52|price|价格|
+|53|sale|销售|
+|54|in|在...中|
+|55|is|是|
+|56|not|不|
+|57|set|集合|
+|58|del|删除|
+|59|remove|去除|
+|60|clear|清除|
+|61|strip|去除|
+|62|lstrip|只去除左边的|
+|63|rstrip|只去除右边的|
+|64|format|格式化|
 
 
 
