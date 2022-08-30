@@ -66,7 +66,30 @@
 |2|path|路径|
 |3|next|下一步|
 |4|install|安装|
-
+|5|File|文件|
+|6|New File|新建文件|
+|7|Run|运行|
+|8|Run Module|运行程序|
+|9|settings|设置|
+|10|key|键|
+|11|tools|工具|
+|12|finish|结束|
+|13|accept|接受|
+|14|Create New Project|创建新项目|
+|15|close|关闭|
+|16|help|帮助|
+|17|dream|梦想|
+|18|Debug|调试|
+|19|Editor|编辑|
+|20|variable|变量|
+|21|datetime|日期时间|
+|22|URL|统一资源定位器|
+|23|False|假的，错误的|
+|24|True|真，正确的|
+|25|title|标题|
+|26|as|如同|
+|27|type|类型|
+|28|input|输入|
 
 
 
