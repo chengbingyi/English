@@ -1,4 +1,3 @@
-
 # 常用术语单词
 ## 一、 openmv python 单词
 ### 1. sensor 库 -- 感光元件 
@@ -51,11 +50,68 @@
 16. or：或
 17. not：非
 18. elif  == else if
-### 2. python内置函数
-1. print
+### 2. python常用单词
+1. print：打印输出
 2. type：查询类型
 3. len：长度
 4. open：打开、读写文件
+5. coding：编码
+6. syntax：语法
+7. error：错误
+8. invalid：无效
+9. identifier：名称/标识符
+10. character：字符
+11. user：用户
+12. attribute：字段/属性
+13. value：值
+14. key：键
+15. upper：上面
+16. lower：下面
+17. capitalize：用大写字母写或印刷
+18. title：标题
+19. replace：替换
+20. old：旧的
+21. new：新的
+22. count：计数
+23. swap：互换
+24. case：情景
+25. path：路径
+26. new：新的\新建
+27. project：项目
+28. test：测试
+29. file：文件
+30. data：数据
+31. strip：去除
+32. index：索引
+33. find：查找
+34. start：开始
+35. end：结束
+36. chars：字符
+37. sub：附属
+38. input：输入
+39. prompt：提示
+40. ID：身份证
+41. format：格式化
+42. args(argument)：参数
+43. kwargs：关键字参数
+44. year：年
+45. month：月
+46. day：日
+47. tuple：元组
+48. max：最大
+49. min：最小
+50. iterable：可迭代的
+51. key：关键字
+52. function：函数/方法
+53. stop：停止
+54. object：对象
+55. range：范围
+56. sep(separate)：分隔
+57. flush：冲刷
+58. step：步长
+59. continue：继续
+60. break：突破/跳出
+61. 
 ### 3. python关键字
 1. def：定义函数
 2. class：定义类
